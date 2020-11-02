@@ -1,0 +1,6 @@
+使用方法：
+./sim <文件名>
+例如：
+./sim ../trace2019/test1.txt
+
+这一实现中只针对trace进行数据的统计，没有真正的读写。并且没有实现Bypass和PreFetch。默认都不Bypass，都不进行Prefetch。

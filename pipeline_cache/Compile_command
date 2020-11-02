@@ -1,0 +1,4 @@
+g++ Simulation.cpp -c -o Sim.o 
+g++ Read_Elf.cpp -c -o Read.o
+g++ Sim.o Read.o -o pipeline_cache_rv64isim
+
