@@ -1,1 +1,4 @@
-# Cache-Simulator
+# 北京大学 计算机体系结构实习 lab3-1/3-2 缓存模拟
+##Cache-Simulator
+
+包括缓存模拟，流水线模拟器+缓存，缓存优化
